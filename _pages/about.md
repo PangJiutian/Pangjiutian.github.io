@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
     <div class="experience-box-logo">
         <img src="images/xjtu.jpg" alt="XJTU Logo">
     </div>
-    <div class="experience-text">
+    <div class="experience-box-text">
         <p><strong>2023.09 - Now</strong></p>
         <p>Master Student, <a href="https://www.xjtu.edu.cn/index.htm">Xi’an Jiaotong University</a>
         <p>Advisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
     <div class="experience-box-logo">
         <img src="images/sau.png" alt="SAU Logo">
     </div>
-    <div class="experience-text">
+    <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
         <p>Bachelor Student, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a>
     </div>
