@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class="education-box">
     <div class="education-box-logo">
-        <img src="images/xjtu.jpg" alt="sym" width="100%">
+        <img src="images/xjtu.jpg" alt="HKU Logo">
     </div>
     <div class="education-box-text">
         <p><strong>2023.09 - Now</strong></p>
