@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 
 <div class="experience-box">
-    <div class="experience-logo">
+    <div class="experience-box-logo">
         <img src="images/xjtu.jpg" alt="HKU Logo">
     </div>
     <div class="experience-text">
