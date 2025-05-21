@@ -27,7 +27,7 @@ author:
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xqoJvCwAAAAJ&hl=zh-CN&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=xqoJvCwAAAAJ"
   email            : "pangjiutian@stu.xjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PangJiutian" # e.g., "github username"
+  github           : PangJiutian # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
