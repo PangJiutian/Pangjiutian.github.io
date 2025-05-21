@@ -23,7 +23,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='anchor' id='publications'></span>
 # Publications 
-(*: indicates equal contribution; #: indicates corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
