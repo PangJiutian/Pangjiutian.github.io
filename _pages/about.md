@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Iterative Gradient Corrected Semi-Supervised  Seismic Impedance Inversion via Swin Transformer](https://ieeexplore.ieee.org/document/10989649)
 
-**Qi Pang**, Hongling Chen, Jinghuai Gao, et.al.
+**Qi Pang**, Hongling Chen, Jinghuai Gao, Zhiqiang Wang, Ping Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
