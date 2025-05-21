@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="images/sau.png" alt="SAU Logo">
+        <img src="images/sau.jpg" alt="SAU Logo">
     </div>
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
