@@ -35,6 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
 <span class='anchor' id='educations'></span>
 # Educations
 
@@ -44,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
     </div>
     <div class="experience-box-text">
         <p><strong>2023.09 - Now</strong></p>
-        <p>Master Student, <a href="https://www.xjtu.edu.cn/index.htm">Xi’an Jiaotong University</a>
+        <p>Master Student, <a href="https://www.xjtu.edu.cn/index.htm">Xi’an Jiaotong University</a></p>
         <p>Advisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
     </div>
 </div>
@@ -55,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
     </div>
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
-        <p>Bachelor Student, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a>
+        <p>Bachelor Student, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a></p>
     </div>
 </div>
 
