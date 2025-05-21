@@ -39,11 +39,11 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 
-<div class="education-box">
-    <div class="education-box-logo">
+<div class="experience-box">
+    <div class="experience-logo">
         <img src="images/xjtu.jpg" alt="HKU Logo">
     </div>
-    <div class="education-box-text">
+    <div class="experience-text">
         <p><strong>2023.09 - Now</strong></p>
         <p>Master Student, <a href="https://www.xjtu.edu.cn/index.htm">Xi’an Jiaotong University</a>
         <p>Advisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
