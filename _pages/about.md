@@ -32,7 +32,8 @@ Iterative Gradient Corrected Semi-Supervised  Seismic Impedance Inversion via Sw
 **Qi Pang**, Hongling Chen, Jinghuai Gao, Zhiqiang Wang, Ping Yang
 
 [**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion)
-
+</div>
+</div>
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
