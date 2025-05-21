@@ -50,3 +50,13 @@ My research interest includes neural machine translation and computer vision. I 
     </div>
 </div>
 
+<div class="experience-box">
+    <div class="experience-box-logo">
+        <img src="images/sau.png" alt="SAU Logo">
+    </div>
+    <div class="experience-text">
+        <p><strong>2019.09 - 2023.06</strong></p>
+        <p>Bachelor Student, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a>
+    </div>
+</div>
+
