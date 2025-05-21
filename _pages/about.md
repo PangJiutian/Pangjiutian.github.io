@@ -38,6 +38,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class="education-box">
+    <div class="education-box-logo">
+        <img src="images/xjtu.jpg" alt="XJTU Logo">
+    </div>
+    <div class="education-box-text">
+        <p><strong>2023.09 - Now</strong></p>
+        <p>Master Student, <a href="https://www.xjtu.edu.cn/index.htm">Xi’an Jiaotong University</a>
+        <p>Advisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
+    </div>
+</div>
 
