@@ -34,7 +34,6 @@ My research interests lie in seismic inversion and machine learning, with a part
 </div>
 </div>
 
-
 <span class='anchor' id='educations'></span>
 # Educations
 
