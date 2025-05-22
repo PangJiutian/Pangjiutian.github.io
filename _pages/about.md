@@ -32,7 +32,7 @@ My research interests lie in seismic inversion and machine learning, with a part
 
 **Iterative Gradient Corrected Semi-Supervised  Seismic Impedance Inversion via Swin Transformer**
 
-**Qi Pang**, Hongling Chen, Jinghuai Gao, Zhiqiang Wang, Ping Yang
+**Qi Pang**, Hongling Chen, Jinghuai Gao, et al.
 
 [**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion)
 </div>
