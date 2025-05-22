@@ -21,11 +21,11 @@ redirect_from:
 
 Hi, I'm Qi Pang, a second-year Master's student at Xi'an Jiaotong University, supervised by Prof. Jinghuai Gao.
 
-My research interests lie in seismic inversion and machine learning, with a particular focus on leveraging generative models to overcome the limitations of traditional inverse problem-solving methods.
+My research interests lie in inverse problems and machine learning, with a particular focus on leveraging generative models to overcome the limitations of traditional inverse problem-solving methods.
 
 <span class='anchor' id='publications'></span>
 
-# Publications
+# A Few Publications (more to come, I hope 🙂)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +65,6 @@ My research interests lie in seismic inversion and machine learning, with a part
 
 <span class='anchor' id='notes'></span>
 
-# Some Notes
+# Personal Notes
 
-There are some notes about the publications
+These are some notes on experiments and life — things I’ve set aside to revisit and resolve in the future.
