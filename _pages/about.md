@@ -25,12 +25,12 @@ I am passionate about solving inverse problems, with a particular focus on lever
 
 I am always open to academic collaborations. My specific research interests include:
 
-- **Rock physics inversion guided by multi-source information** (based on diffusion models or Transformers)
+- **Rockphysics inversion guided by multi-source information** (based on diffusion models or Transformers)
 - **Geological modeling** (based on diffusion models or VAEs)
 
 <span class='anchor' id='publications'></span>
 
-# A Few Publications (more to come, I hope 🙂)
+# A Few Publications (more to come, I hope)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
