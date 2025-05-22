@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qi Pang"
-description              : "Focused on"
+description              : "Focused on physics-informed machine learning for solving inverse problems in geosciences"
 repository               : "PangJiutian/Pangjiutian.github.io"
 google_scholar_stats_use_cdn : true
 
