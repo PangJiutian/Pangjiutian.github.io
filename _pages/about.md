@@ -67,9 +67,3 @@ I am always open to academic collaborations. My specific research interests incl
         <p>Bachelor, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a></p>
     </div>
 </div>
-
-<span class='anchor' id='notes'></span>
-
-# Personal Notes
-
-These are some notes on experiments and life — things I’ve set aside to revisit and resolve in the future.
