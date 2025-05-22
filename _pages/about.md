@@ -21,11 +21,11 @@ redirect_from:
 
 Hi, I'm Qi Pang, a second-year Master's student at Xi'an Jiaotong University, where I am fortunate to be supervised by Prof. Jinghuai Gao. Prior to this, I received my Bachelor's degree from Shenyang Aerospace University.
 
-I am passionate about solving seismic inverse problems, with a particular focus on leveraging machine learning techniques. It is deeply rewarding to see meaningful results emerge from real-world data. In parallel, I have a strong interest in geological modeling, where physics-based simulations enable the construction of realistic synthetic data — providing valuable training datasets and test scenarios for inverse problem research.
+I am passionate about solving seismic inverse problems, with a particular focus on leveraging machine learning techniques. In parallel, I have a strong interest in geological modeling, where physics-based simulations enable the construction of realistic synthetic data.
 
 I am always open to academic collaborations. My specific research interests include:
 
-- **Rockphysics inversion guided by multi-source information** (based on diffusion models or Transformers)
+- **Seismic inversion guided by multi-source information** (based on diffusion models or Transformers)
 - **Geological modeling** (based on diffusion models or VAEs)
 
 <span class='anchor' id='publications'></span>
