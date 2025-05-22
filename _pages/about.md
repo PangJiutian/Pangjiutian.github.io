@@ -9,19 +9,23 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+# About Me
+
 Hi, I'm Qi Pang, a second-year Master's student at Xi'an Jiaotong University, supervised by Prof. Jinghuai Gao.
 
 My research interests lie in seismic inversion and machine learning, with a particular focus on leveraging generative models to overcome the limitations of traditional inverse problem-solving methods.
 
 <span class='anchor' id='publications'></span>
-# Publications 
+
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,6 +39,7 @@ My research interests lie in seismic inversion and machine learning, with a part
 </div>
 
 <span class='anchor' id='educations'></span>
+
 # Educations
 
 <div class="experience-box">
@@ -59,5 +64,7 @@ My research interests lie in seismic inversion and machine learning, with a part
 </div>
 
 <span class='anchor' id='notes'></span>
+
 # Some Notes
+
 There are some notes about the publications
