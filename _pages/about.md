@@ -59,4 +59,5 @@ My research interests lie in seismic inversion and machine learning, with a part
 </div>
 
 <span class='anchor' id='notes'></span>
+# Some Notes
 There are some notes about the publications
