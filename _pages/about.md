@@ -44,7 +44,7 @@ My research interests lie in seismic inversion and machine learning, with a part
     <div class="experience-box-text">
         <p><strong>2023.09 - Now</strong></p>
         <p>Master, <a href="https://www.xjtu.edu.cn/index.htm">Xi’an Jiaotong University</a></p>
-        <p>Advisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
+        <p>Supervisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
     </div>
 </div>
 
