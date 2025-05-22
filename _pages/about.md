@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 Hi, I'm Qi Pang, a second-year Master's student at Xi'an Jiaotong University, supervised by Prof. Jinghuai Gao.
 
 My research interests lie in seismic inversion and machine learning, with a particular focus on leveraging generative models to overcome the limitations of traditional inverse problem-solving methods.
