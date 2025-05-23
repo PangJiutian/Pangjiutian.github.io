@@ -9,8 +9,8 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-#  - title: "Personal Notes"
-#    url: "/#notes"
+  - title: "Research Experience"
+    url: "/#research-experience"
 
 #  - title: "Internships"
 #    url: "/#internships"

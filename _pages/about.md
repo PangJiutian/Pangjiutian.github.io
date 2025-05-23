@@ -53,14 +53,14 @@ My research journey began during my Master’s studies, focusing on seismic impe
 </div>
 </div>
 
-<span class='anchor' id='research experience'></span>
+<span class='anchor' id='research-experience'></span>
 
 # Research Experience
 
 <ul>
   <li>
-    <span style="display: inline-block; background-color:rgb(0, 204, 102); color: white; font-size: 12px; paddin    g: 2px 6px; border-radius: 0px; margin-right: 8px;">
-      Experiment 2024
+    <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
+      Experiment
     </span>
     <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank">
       Real-world time-shifted seismic data generation
@@ -73,8 +73,8 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 <ul>
   <li>
-    <span style="display: inline-block; background-color:rgb(0, 204, 102); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
-      Experiment 2023
+    <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
+      Experiment
     </span>
     <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank">
       Model driven Seismic Inversion with Structural Regularization
