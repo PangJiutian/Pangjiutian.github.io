@@ -40,7 +40,7 @@ Reservoir characterization seeks to reveal the spatial heterogeneity of subsurfa
 
 ## Previous Research Topics: Seismic Impedance Inversion/Transformer/CNN
 
-My research journey began during my Master’s studies, focusing on seismic impedance inversion. Over time, my work progressed from TV to more adaptive structural constraints, from 1D to 2D inversion with improved lateral continuity, and from traditional model-driven approaches to deep learning methods with stronger nonlinear representation capabilities—ranging from CNNs to globally-aware Transformers. These experiences not only deepened my understanding of inverse problems but also fueled my motivation to further explore the underlying theories and methodologies.
+My research journey began during my Master’s studies, focusing on seismic impedance inversion. Over time, my work progressed from TV to more adaptive structural constraints, from 1D to 2D inversion with improved lateral continuity, and from traditional model-driven approaches to deep learning methods with stronger nonlinear representation capabilities—ranging from CNNs to globally-aware Transformers. These experiences not only deepened my understanding of inverse problems but also fueled my motivation to further explore the underlying methodologies.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +66,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
       Real-world time-shifted seismic data generation
     </a>
     <div style="margin-top: 4px; font-size: 15px; color: #555;">
-      Accurate labeling is critical for deep learning methods in seismic exploration. However, inconsistencies in time-depth relationships often lead to misalignment between well logs and seismic data, resulting in suboptimal training outcomes. This project serves as a precursor for time-shift estimation, aiming to simulate realistic time-shifted seismic data. By leveraging time-depth relationships, we generat   e large-scale pairs of synthetic time-shifted seismic data to provide high-quality training samples for subsequent deep learning models focused on time-shift estimation.
+      Accurate labeling is critical for deep learning methods in seismic exploration. However, inconsistencies in time-depth relationships often lead to misalignment between well logs and seismic data, resulting in suboptimal training outcomes. This project serves as a precursor for time-shift estimation, aiming to simulate realistic time-shifted seismic data. By leveraging time-depth relationships, we generate large-scale pairs of synthetic time-shifted seismic data to provide high-quality training samples for subsequent deep learning models focused on time-shift estimation.
     </div>
   </li>
 </ul>
