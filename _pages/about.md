@@ -57,7 +57,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 # Research Experience
 
-- ``Experiment`` [Model driven Seismic Inversion with Structural Regularization ]()
+- ``Project`` **Model driven Seismic Inversion with Structural Regularization** [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion)
 
 <span class='anchor' id='educations'></span>
 
