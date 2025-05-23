@@ -34,7 +34,11 @@ I am always open to academic collaborations. My specific research interests incl
 
 ## Current Research Topics: Petrophysical Inversion/Diffusion Model
 
-Reservoir characterization aims to delineate the spatial heterogeneity of subsurface reservoir properties, enabling a comprehensive understanding of fluid flow behavior in the subsurface. Diffusion models, empowered by their strong learned priors, offer remarkable flexibility in incorporating diverse conditional information—such as forward simulations, well logs, seismic facies, and relative geological time (RGT)—thus effectively mitigating the inherent non-uniqueness and ill-posedness of geophysical inverse problems.
+Reservoir characterization seeks to reveal the spatial heterogeneity of subsurface properties to better understand fluid flow. Diffusion models, with their powerful learned priors, flexibly integrate various data sources—such as forward models, well logs, seismic facies, and RGT—to reduce the non-uniqueness of inversion. This integration of generative modeling with geophysical inversion is what inspires my research interest in this field.
+
+## Previous Research Topic: Seismic Impedance Inversion/Transformer/CNN
+
+My research journey began during my Master's studies, focusing on seismic impedance inversion. Progressing from forward modeling to synthetic data generation, from 1D to 2D settings, and from model-driven approaches to data-driven methods—ranging from CNNs to Transformers—these experiences gradually sparked my deep interest in inverse problems and made me eager to learn more to enhance my problem-solving skills.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
