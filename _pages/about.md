@@ -17,20 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 😺 About Me
 
 Hi, I'm Qi Pang, a second-year Master's student at Xi'an Jiaotong University, where I am fortunate to be supervised by Prof. Jinghuai Gao. Prior to this, I received my Bachelor's degree from Shenyang Aerospace University.
 
 I am passionate about solving seismic inverse problems, with a particular focus on leveraging machine learning techniques. In parallel, I have a strong interest in geological modeling, where physics-based simulations enable the construction of realistic synthetic data.
 
-I am always open to academic collaborations. My specific research interests include:
+I am currently **Ph.D. opportunities starting in Fall 2026**, and I am always open to academic collaborations that intersect with my research interests.
 
-- **Seismic inversion guided by multi-source information** (based on diffusion models or Transformers)
-- **Geological modeling** (based on diffusion models or VAEs)
+Topics I’m Excited About:
+
+- **Seismic inversion guided by multi-source information**  
+  *(e.g., using physics-informed machine learning methods, diffusion models)*
+
+- **Geological modeling with realistic priors**  
+  *(e.g., geostatistical simulation methods and diffusion models)*
+
+If you are working on similar problems or believe my background could contribute to your group or project, I would love to hear from you. Please feel free to contact me at:
+📧 pangjiutian@stu.xjtu.edu.cn
 
 <span class='anchor' id='publications'></span>
 
-# Publications
+# 📝 Publications
 
 ## Current Research Topics: Petrophysical Inversion/Diffusion Model
 
@@ -55,7 +63,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 <span class='anchor' id='research-experience'></span>
 
-# Research Experience
+# 💻 Research Experience
 
 <ul>
   <li>
@@ -87,7 +95,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 <span class='anchor' id='educations'></span>
 
-# Educations
+# 📖 Educations
 
 <div class="experience-box">
     <div class="experience-box-logo">
