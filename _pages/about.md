@@ -57,13 +57,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 # Research Experience
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">Diffusion-based Inversion</div></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**Diffusion-based Petrophysical Inversion with Multi-Source Integration**
+- ``Experiment`` [Model driven Seismic Inversion with Structural Regularization ]()
 
 <span class='anchor' id='educations'></span>
 
