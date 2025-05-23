@@ -36,6 +36,8 @@ I am always open to academic collaborations. My specific research interests incl
 
 Reservoir characterization seeks to reveal the spatial heterogeneity of subsurface properties to better understand fluid flow. Diffusion models, with their powerful learned priors, flexibly integrate various data sources—such as forward models, well logs, seismic facies, and RGT—to reduce the non-uniqueness of inversion. This integration of generative modeling with geophysical inversion is what inspires my research interest in this field.
 
+🛠 *Ongoing research*
+
 ## Previous Research Topic: Seismic Impedance Inversion/Transformer/CNN
 
 My research journey began during my Master’s studies, focusing on seismic impedance inversion. Over time, my work progressed from TV to more adaptive structural constraints, from 1D to 2D inversion with improved lateral continuity, and from traditional model-driven approaches to deep learning methods with stronger nonlinear representation capabilities—ranging from CNNs to globally-aware Transformers. These experiences not only deepened my understanding of inverse problems but also fueled my motivation to further explore the underlying theories and methodologies to more effectively address complex geophysical challenges.
