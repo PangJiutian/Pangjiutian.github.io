@@ -59,7 +59,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 <ul>
   <li>
-    <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
+    <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
       Experiment
     </span>
     <a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data" target="_blank" style="font-size: 16px;">
@@ -73,7 +73,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 <ul>
   <li>
-    <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
+    <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
       Experiment
     </span>
     <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank" style="font-size: 16px;">
