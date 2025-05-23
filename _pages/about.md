@@ -32,6 +32,10 @@ I am always open to academic collaborations. My specific research interests incl
 
 # A Few Publications (more to come, I hope)
 
+## Current Research Topics: Petrophysical Inversion/Diffusion Model
+
+Reservoir characterization aims to delineate the spatial heterogeneity of subsurface reservoir properties, enabling a comprehensive understanding of fluid flow behavior in the subsurface. Diffusion models, empowered by their strong learned priors, offer remarkable flexibility in incorporating diverse conditional information—such as forward simulations, well logs, seismic facies, and relative geological time (RGT)—thus effectively mitigating the inherent non-uniqueness and ill-posedness of geophysical inverse problems.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,6 +46,10 @@ I am always open to academic collaborations. My specific research interests incl
 [**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion)
 </div>
 </div>
+
+<span class='anchor' id='research experience'></span>
+
+# Research Experience
 
 <span class='anchor' id='educations'></span>
 
@@ -65,5 +73,5 @@ I am always open to academic collaborations. My specific research interests incl
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
         <p>Bachelor, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a></p>
-    </div>
+    </div>   
 </div>
