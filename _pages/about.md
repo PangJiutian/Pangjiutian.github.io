@@ -59,12 +59,15 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 <ul>
   <li>
-    <span style="display: inline-block; background-color: #0033cc; color: white; font-size: 12px; padding: 2px 6px; border-radius: 4px; margin-right: 8px;">
+    <span style="display: inline-block; background-color:rgb(0, 204, 102); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
       Project
     </span>
-    <a href="https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion" target="_blank">
+    <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank">
       Model driven Seismic Inversion with Structural Regularization
     </a>
+    <div style="margin-top: 4px; margin-left: 70px; font-size: 14px; color: #555;">
+      This project explores integrating structural priors into deep-learning-based seismic inversion frameworks, aiming to improve lateral continuity and geologically plausible results.
+    </div>
   </li>
 </ul>
 
