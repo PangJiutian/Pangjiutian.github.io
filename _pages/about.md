@@ -76,7 +76,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
     <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 2px 6px; border-radius: 0px; margin-right: 8px;">
       Experiment
     </span>
-    <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank" style="font-size: 24px;">
+    <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank" style="font-size: 20px;">
       Model driven Seismic Inversion with Structural Regularization
     </a>
     <div style="margin-top: 4px; font-size: 14px; color: #555;">
@@ -84,7 +84,6 @@ My research journey began during my Master’s studies, focusing on seismic impe
     </div>  
   </li>
 </ul>
-I implemented a seismic convolution forward modeling algorithm in MATLAB and generated synthetic seismic data based on the Marmousi model. Seismic dip estimation was performed using both structure tensor eigenvalue decomposition and PWD. Results demonstrate that PWD is more robust in capturing dominant geological trends, while the structure tensor approach is less stable under noise. A structure-oriented smoothing operator was constructed from the dip estimates. Finally, a structure-constrained inversion objective function was formulated and solved using FISTA to obtain the least-squares solution.
 
 <span class='anchor' id='educations'></span>
 
