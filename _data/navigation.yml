@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Educations"
-    url: "/#educations"
-
   - title: "Research Experience"
     url: "/#research-experience"
+
+  - title: "Educations"
+    url: "/#educations"
 
 #  - title: "Internships"
 #    url: "/#internships"
