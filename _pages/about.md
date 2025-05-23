@@ -38,7 +38,7 @@ Reservoir characterization seeks to reveal the spatial heterogeneity of subsurfa
 
 ## Previous Research Topic: Seismic Impedance Inversion/Transformer/CNN
 
-My research journey began during my Master's studies, focusing on seismic impedance inversion. Progressing from forward modeling to synthetic data generation, from 1D to 2D settings, and from model-driven approaches to data-driven methods—ranging from CNNs to Transformers—these experiences gradually sparked my deep interest in inverse problems and made me eager to learn more to enhance my problem-solving skills.
+My research journey began during my Master’s studies, focusing on seismic impedance inversion. Over time, my work progressed from TV to more adaptive structural constraints, from 1D to 2D inversion with improved lateral continuity, and from traditional model-driven approaches to deep learning methods with stronger nonlinear representation capabilities—ranging from CNNs to globally-aware Transformers. These experiences not only deepened my understanding of inverse problems but also fueled my motivation to further explore the underlying theories and methodologies to more effectively address complex geophysical challenges.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
