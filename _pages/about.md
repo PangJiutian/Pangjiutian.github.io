@@ -23,7 +23,7 @@ Hi, I'm Qi Pang, a second-year Master's student at Xi'an Jiaotong University, wh
 
 I am passionate about solving seismic inverse problems, with a particular focus on leveraging machine learning techniques. In parallel, I have a strong interest in geological modeling, where physics-based simulations enable the construction of realistic synthetic data.
 
-I am currently **Ph.D. opportunities starting in Fall 2026**, and I am always open to academic collaborations that intersect with my research interests.
+🚀 **I am currently seeking Ph.D. opportunities starting in Fall 2026**, and I am always open to academic collaborations that intersect with my research interests.
 
 Topics I’m Excited About:
 
