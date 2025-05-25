@@ -115,5 +115,6 @@ My research journey began during my Master’s studies, focusing on seismic impe
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
         <p>Bachelor, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a></p>
+        <p>Supervisor: Prof. <a href="https://yjs.sau.edu.cn/info/1015/3462.htm">Qizhi Fang</a></p>
     </div>   
 </div>
