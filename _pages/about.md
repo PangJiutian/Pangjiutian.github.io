@@ -118,3 +118,13 @@ My research journey began during my Master’s studies, focusing on seismic impe
         <p>Supervisor: Prof. <a href="https://yjs.sau.edu.cn/info/1015/3462.htm">Qizhi Fang</a></p>
     </div>   
 </div>
+
+<span class="anchor" id="cv"></span>
+
+# 📄 CV
+
+<p>
+  <a href="CV_QiPang.pdf" download target="_blank" style="font-size: 16px; text-decoration: none; color: #007acc;">
+    📥 Download CV
+  </a>
+</p>
