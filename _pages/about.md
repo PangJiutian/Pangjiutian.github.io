@@ -34,7 +34,7 @@ Topics I’m Excited About:
   *(e.g., geostatistical simulation methods and diffusion models)*
 
 If you are working on similar problems or believe my background could contribute to your group or project, I would love to hear from you. Please feel free to contact me at:
-📧 pangjiutian@stu.xjtu.edu.cn
+📧 pangjiutian@gmail.com 
 
 <span class='anchor' id='publications'></span>
 
