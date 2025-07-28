@@ -128,3 +128,17 @@ My research journey began during my Master’s studies, focusing on seismic impe
     📥 Download CV
   </a>
 </p>
+
+<span class="anchor" id="hobbies"></span>
+
+# 🎮 Hobbies
+
+When I'm not coding or running simulations, I like to relax (or compete!) through games and sports:
+
+- 🪓 **Don’t Starve Together** – 1000+ hours in the wilderness (and I love eating Meatballs!)  
+- ⚔️ **League of Legends** – Chill ARAM grinder / tryhard Top & Jungle main  
+- 🏓 **Table Tennis** – Big fan of ping pong! Always up for a quick match  
+- 🎲 Also enjoy co-op survival, strategy games, and quirky indie titles
+
+Let’s play sometime!  
+🎮 Steam Friend Code: `1034585311`
