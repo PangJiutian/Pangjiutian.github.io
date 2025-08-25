@@ -65,6 +65,17 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 # 💻 Research Experience
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software</div><img src='images/com_seiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Seisvis - Seismic Data Visualization Library**
+
+A simple and easy-to-use Python library for seismic data visualization, designed for geophysicists and seismic data analysts.
+
+[**GitHub**](https://github.com/PangJiutian/Seisvis)
+</div>
+</div>
+
 <ul>
   <li>
     <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
