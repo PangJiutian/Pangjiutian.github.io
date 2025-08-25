@@ -76,31 +76,29 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 </div>
 </div>
 
+<div style="margin-bottom:20px;">
+<span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
+  Experiment
+</span>
+<a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data" target="_blank" style="font-size: 16px;">
+  Real-World Time-Shifted Seismic Data Generation
+</a>
+<div style="margin-top: 4px; font-size: 15px; color: #555;">
+  Accurate labeling is critical for deep learning methods in seismic exploration. However, inconsistencies in time-depth relationships often lead to misalignment between well logs and seismic data, resulting in suboptimal training outcomes. This project serves as a precursor for time-shift estimation, aiming to simulate realistic time-shifted seismic data. By leveraging time-depth relationships, we generate large-scale pairs of synthetic time-shifted seismic data to provide high-quality training samples for subsequent deep learning models focused on time-shift estimation.
+</div>
+</div>
 
-<li>
-  <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
-    Experiment
-  </span>
-  <a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data" target="_blank" style="font-size: 16px;">
-    Real-World Time-Shifted Seismic Data Generation
-  </a>
-  <div style="margin-top: 4px; font-size: 15px; color: #555;">
-    Accurate labeling is critical for deep learning methods in seismic exploration. However, inconsistencies in time-depth relationships often lead to misalignment between well logs and seismic data, resulting in suboptimal training outcomes. This project serves as a precursor for time-shift estimation, aiming to simulate realistic time-shifted seismic data. By leveraging time-depth relationships, we generate large-scale pairs of synthetic time-shifted seismic data to provide high-quality training samples for subsequent deep learning models focused on time-shift estimation.
-  </div>
-</li>
-
-
-<li>
-  <span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
-    Experiment
-  </span>
-  <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank" style="font-size: 16px;">
-    Model driven Seismic Inversion with Structural Regularization
-  </a>
-  <div style="margin-top: 4px; font-size: 15px; color: #555;">
-    I implemented a seismic convolution forward modeling algorithm in MATLAB and generated synthetic seismic data based on the Marmousi model. Seismic dip estimation was performed using both structure tensor eigenvalue decomposition and PWD. Results demonstrate that PWD is more robust in capturing dominant geological trends, while the structure tensor approach is less stable under noise. A structure-oriented smoothing operator was constructed from the dip estimates. Finally, a structure-constrained inversion objective function was formulated and solved using FISTA to obtain the least-squares solution.
-  </div>  
-</li>
+<div style="margin-bottom:20px;">
+<span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
+  Experiment
+</span>
+<a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank" style="font-size: 16px;">
+  Model driven Seismic Inversion with Structural Regularization
+</a>
+<div style="margin-top: 4px; font-size: 15px; color: #555;">
+  I implemented a seismic convolution forward modeling algorithm in MATLAB and generated synthetic seismic data based on the Marmousi model. Seismic dip estimation was performed using both structure tensor eigenvalue decomposition and PWD. Results demonstrate that PWD is more robust in capturing dominant geological trends, while the structure tensor approach is less stable under noise. A structure-oriented smoothing operator was constructed from the dip estimates. Finally, a structure-constrained inversion objective function was formulated and solved using FISTA to obtain the least-squares solution.
+</div>  
+</div>
 
 <span class='anchor' id='educations'></span>
 
