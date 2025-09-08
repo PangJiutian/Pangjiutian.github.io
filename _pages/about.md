@@ -34,7 +34,7 @@ Topics I’m Excited About:
   *(e.g., geostatistical simulation methods and diffusion models)*
 
 - **Subsurface geoscience modeling with large foundation models**
-  *(e.g., grounded in geophysical principles)
+  *(e.g., grounded in geophysical principles)*
 
 If you are working on similar problems or believe my background could contribute to your group or project, I would love to hear from you. Please feel free to contact me at:
 📧 pangjiutian@gmail.com 
