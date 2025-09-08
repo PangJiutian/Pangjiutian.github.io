@@ -33,6 +33,9 @@ Topics I’m Excited About:
 - **Geological modeling with realistic priors**  
   *(e.g., geostatistical simulation methods and diffusion models)*
 
+- **Subsurface geoscience modeling with large foundation models**
+  *(e.g., grounded in geophysical principles)
+
 If you are working on similar problems or believe my background could contribute to your group or project, I would love to hear from you. Please feel free to contact me at:
 📧 pangjiutian@gmail.com 
 
@@ -40,11 +43,15 @@ If you are working on similar problems or believe my background could contribute
 
 # 📝 Publications
 
-## Current Research Topics: Petrophysical Inversion/Diffusion Model
+## Current Research Topics: Geological Modeling/Diffusion Model/Petrophysical Inversion
 
-Reservoir characterization seeks to reveal the spatial heterogeneity of subsurface properties to better understand fluid flow. Diffusion models, with their powerful learned priors, flexibly integrate various data sources—such as forward models, well logs, seismic facies, and RGT—to reduce the non-uniqueness of inversion. This integration of generative modeling with geophysical inversion is what inspires my research interest in this field.
+With the rapid progress of machine learning, high-quality training data has become essential. Yet in geophysics, sensitive data and the lack of open datasets pose major challenges. This drives my research in geological modeling, aiming to create realistic subsurface representations as priors and synthetic training data. My research extends from **numerical simulation** to **generative AI**, seeking to create diverse and realistic datasets that can support a wide range of geophysical applications.
 
-🛠 *Ongoing research*
+🛠 *Ongoing research*(some progress below)
+
+<p align="center">
+  <img src="images/geogen.png" width="600"/>
+</p>
 
 ## Previous Research Topics: Seismic Impedance Inversion/Transformer/CNN
 
