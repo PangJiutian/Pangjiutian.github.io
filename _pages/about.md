@@ -64,8 +64,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 **Qi Pang**, Hongling Chen, Jinghuai Gao, et al.
 
-[**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**Code**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion) | [![](https://img.shields.io/github/stars/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion?style=social&label=Stars)](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion)
-
+[**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion) | ![ ](https://img.shields.io/github/stars/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion?style=social)
 </div>
 </div>
 
