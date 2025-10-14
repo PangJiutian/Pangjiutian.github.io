@@ -64,7 +64,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 **Qi Pang**, Hongling Chen, Jinghuai Gao, et al.
 
-[**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion) | ![ ](https://img.shields.io/github/stars/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion?style=social)
+[**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion) ![ ](https://img.shields.io/github/stars/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion?style=social)
 </div>
 </div>
 
@@ -79,7 +79,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 
 A simple and easy-to-use Python library for seismic data visualization, designed for geophysicists and seismic data analysts.
 
-[**GitHub**](https://github.com/PangJiutian/Seisvis)
+[**GitHub**](https://github.com/PangJiutian/Seisvis) ![ ](https://img.shields.io/github/stars/PangJiutian/Seisvis)
 </div>
 </div>
 
