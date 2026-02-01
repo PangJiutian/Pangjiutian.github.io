@@ -19,39 +19,45 @@ redirect_from:
 
 # 😺 About Me
 
-Hi, I'm Qi Pang, a third-year Master's student at Xi'an Jiaotong University, where I am fortunate to be supervised by Prof. [Jinghuai Gao](https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao). Prior to this, I received my Bachelor's degree from Shenyang Aerospace University.
+Hi, I’m **Qi Pang**, a third-year Master’s student at **Xi’an Jiaotong University**, where I am fortunate to be supervised by Prof. [Jinghuai Gao](https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao).  Before that, I received my Bachelor’s degree from **Shenyang Aerospace University**.
 
-I am passionate about solving seismic inverse problems, with a particular focus on leveraging machine learning techniques. In parallel, I have a strong interest in geological modeling, where physics-based simulations enable the construction of realistic synthetic data.
+My research interests include **inverse problems**, **generative modeling**, and **geological modeling**, with a particular focus on developing physics-informed generative models for geoscience.
 
-<span style="color:red; font-weight:bold;">🚀 I am currently seeking Ph.D. opportunities starting in Fall 2026</span>, and I am always open to academic collaborations that intersect with my research interests.
+<span style="color:red; font-weight:bold;">🚀 I am currently seeking Ph.D. opportunities starting in Fall 2026</span>, and I’m always happy to explore academic collaborations aligned with my research interests.
 
-Topics I’m Excited About:
+#### 🔍 Topics I’m Excited About
 
-- **Seismic inversion guided by multi-source information**  
-  *(e.g., using physics-informed machine learning methods, diffusion models)*
-
-- **Geological modeling with realistic priors**  
-  *(e.g., geostatistical simulation methods and diffusion models)*
-
-- **Subsurface geoscience with large foundation models**  
+- **Subsurface geoscience with generative models**  
   *(grounded in geophysical principles)*
 
-If you are working on similar problems or believe my background could contribute to your group or project, I would love to hear from you. Please feel free to contact me at:
-📧 pangjiutian@gmail.com 
+- **Geological modeling with realistic priors**  
+  *(e.g., geostatistical simulation methods)*
+
+- **Inversion guided by multi-source information**  
+  *(e.g., physics-informed machine learning)*
+
+
+#### 🛠 Ongoing Research
+
+<p align="center">
+  <img src="images/sim2gen.png" width="600"/>
+</p>
+
+This is my first step 🚀  
+The end goal? A **Stable Diffusion for Earth sciences** 🌍  
+Current progress: patiently teaching generative models to understand geology 🪨😄
+
+
+If you’re working on related problems—or think my background could contribute to your group or project—I’d love to connect. Feel free to reach out at: 📧 **pangjiutian@gmail.com**
+
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
-## Current Research Topics: Geological Modeling/Diffusion Model/Petrophysical Inversion
+## Current Research Topics: Generative Models/Geological Modeling
 
 With the rapid progress of machine learning, high-quality training data has become essential. Yet in geophysics, sensitive data and the lack of open datasets pose major challenges. This drives my research in geological modeling, aiming to create realistic subsurface representations as priors and synthetic training data. My research extends from **numerical simulation** to **generative AI**, seeking to create diverse and realistic datasets that can support a wide range of geophysical applications.
-
-🛠 *Ongoing research*(some progress below)
-
-<p align="center">
-  <img src="images/geogen.png" width="600"/>
-</p>
 
 ## Previous Research Topics: Seismic Impedance Inversion/Transformer/CNN
 
