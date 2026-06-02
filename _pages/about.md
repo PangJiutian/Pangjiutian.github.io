@@ -98,7 +98,7 @@ An iterative gradient correction strategy guides the network to learn update map
 
 # 💻 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiment">Software</div><img src='images/com_seiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software</div><img src='images/com_seiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Seisvis - Seismic Data Visualization Library**
@@ -110,7 +110,7 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 </div>
 
 <div class='paper-box-small'>
-<div class='paper-box-item'><div style="position:relative"><div class="badge experiment">Experiment</div><img src='images/tdr.png' alt="sym"/></div>
+<div class='paper-box-item'><div style="position:relative"><div class="badge">Experiment</div><img src='images/tdr.png' alt="sym"/></div>
 <div class='paper-box-item-text' markdown="1">
 
 **Real-World Time-Shifted Seismic Data Generation**
@@ -120,7 +120,7 @@ Simulates realistic time-shifted seismic data via time-depth relationships for t
 [**GitHub**](https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data)
 </div></div>
 
-<div class='paper-box-item'><div style="position:relative"><div class="badge experiment">Experiment</div><img src='images/dipcons.png' alt="sym"/></div>
+<div class='paper-box-item'><div style="position:relative"><div class="badge">Experiment</div><img src='images/dipcons.png' alt="sym"/></div>
 <div class='paper-box-item-text' markdown="1">
 
 **Model-Driven Seismic Inversion with Structural Regularization**
