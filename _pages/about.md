@@ -111,26 +111,21 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 
 <div class='paper-box-small'>
 <div class='paper-box-item'>
-<div style="position:relative; padding: 1em; border: 1px #efefef solid;">
-<div class="badge experiment">Experiment</div>
-<div style="padding-top: 1.5em;">
 
-**[Real-World Time-Shifted Seismic Data Generation](https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data)**
+<span class="badge experiment">Experiment</span> <a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data"><strong>Real-World Time-Shifted Seismic Data Generation</strong></a>
 
 Inconsistencies in time-depth relationships often cause misalignment between well logs and seismic data. This project simulates realistic time-shifted seismic data by leveraging time-depth relationships, generating large-scale synthetic pairs as high-quality training samples for deep learning-based time-shift estimation models.
-</div></div></div>
 
-<div class='paper-box-item'>
-<div style="position:relative; padding: 1em; border: 1px #efefef solid;">
-<div class="badge experiment">Experiment</div>
-<div style="padding-top: 1.5em;">
-
-**[Model-Driven Seismic Inversion with Structural Regularization](https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization)**
-
-Implemented seismic convolution forward modeling in MATLAB based on the Marmousi model. Compared structure tensor and PWD for dip estimation — PWD proved more robust under noise. A structure-constrained inversion objective was solved via FISTA.
-</div></div></div>
 </div>
 
+<div class='paper-box-item'>
+
+<span class="badge experiment">Experiment</span> <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization"><strong>Model-Driven Seismic Inversion with Structural Regularization</strong></a>
+
+Implemented seismic convolution forward modeling in MATLAB based on the Marmousi model. Compared structure tensor and PWD for dip estimation — PWD proved more robust under noise. A structure-constrained inversion objective was solved via FISTA.
+
+</div>
+</div>
 
 <span class='anchor' id='educations'></span>
 
