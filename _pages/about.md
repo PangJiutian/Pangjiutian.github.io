@@ -59,6 +59,21 @@ If you’re working on related problems—or think my background could contribut
 
 With the rapid progress of machine learning, high-quality training data has become essential. Yet in geophysics, sensitive data and the lack of open datasets pose major challenges. This drives my research in geological modeling, aiming to create realistic subsurface representations as priors and synthetic training data. My research extends from **numerical simulation** to **generative AI**, seeking to create diverse and realistic datasets that can support a wide range of geophysical applications.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2026</div><img src='images/eage2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scaling the Subsurface: Deep Generative Synthesis of 3D Seismic Properties**
+
+**Qi Pang**, Hongling Chen, Jinghuai Gao, et al.
+
+A latent diffusion framework for unconditional 3D geological model generation.
+
+
+[**Paper**](https://www.earthdoc.org/content/papers/10.3997/2214-4609.2026101269) | [**GitHub**](https://github.com/PangJiutian/geovoldiff/blob/main/pipelines/uncond_gvd_pipeline.py) ![ ](https://img.shields.io/github/stars/PangJiutian/geovoldiff?style=social)
+</div>
+</div>
+
+
 ## Previous Research Topics: Seismic Impedance Inversion/Transformer/CNN
 
 My research journey began during my Master’s studies, focusing on seismic impedance inversion. Over time, my work progressed from TV to more adaptive structural constraints, from 1D to 2D inversion with improved lateral continuity, and from traditional model-driven approaches to deep learning methods with stronger nonlinear representation capabilities—ranging from CNNs to globally-aware Transformers. These experiences not only deepened my understanding of inverse problems but also fueled my motivation to further explore the underlying methodologies.
@@ -69,6 +84,7 @@ My research journey began during my Master’s studies, focusing on seismic impe
 **Iterative Gradient Corrected Semi-Supervised  Seismic Impedance Inversion via Swin Transformer**
 
 **Qi Pang**, Hongling Chen, Jinghuai Gao, et al.
+
 An iterative gradient correction strategy guides the network to learn update mappings in model space and capture implicit priors, effectively suppressing null-space uncertainty. Combined with Swin Transformer for long-range dependency modeling, achieving high-accuracy seismic impedance inversion.
 
 
