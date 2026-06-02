@@ -104,12 +104,20 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00E5FF;
+    background-color: #00369f;
     font-size: .8em;
 }
 
 .badge.vision {
-    background-color: #F97316;
+    background-color: #F97316; /* 橙色 - 未来愿景 */
+}
+
+.badge.experiment {
+    background-color: #10B981; /* 绿色 - 实验项目 */
+}
+
+.badge.software {
+    background-color: #6366F1; /* 靛蓝 - 软件工具 */
 }
 
 .experience-box {

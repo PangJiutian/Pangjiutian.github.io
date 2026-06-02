@@ -98,7 +98,7 @@ An iterative gradient correction strategy guides the network to learn update map
 
 # 💻 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software</div><img src='images/com_seiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiment">Software</div><img src='images/com_seiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Seisvis - Seismic Data Visualization Library**
@@ -109,7 +109,7 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Experiment</div><img src='images/tdr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiment">Experiment</div><img src='images/tdr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real-World Time-Shifted Seismic Data Generation**
@@ -120,7 +120,7 @@ Accurate labeling is critical for deep learning in seismic exploration. This pro
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Experiment</div><img src='images/dipcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiments">Experiment</div><img src='images/dipcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model-Driven Seismic Inversion with Structural Regularization**
