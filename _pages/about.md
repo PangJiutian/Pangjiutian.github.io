@@ -40,12 +40,12 @@ My research interests include **inverse problems**, **generative modeling**, and
 #### 🛠 Ongoing Research
 
 <p align="center">
-  <img src="images/sim2gen.png" width="600"/>
+  <img src="images/sim2gen.png" width="450"/>
 </p>
 
 This is my first step 🚀  
-The end goal? A **Stable Diffusion for Earth sciences** 🌍  
-Current progress: patiently teaching generative models to understand geology 🪨😄
+The end goal? A **World Model for the Subsurface** 🌍  
+Current progress: teaching generative models to understand the underground🪨
 
 
 If you’re working on related problems—or think my background could contribute to your group or project—I’d love to connect. Feel free to reach out at: 📧 **pangjiutian@gmail.com**
@@ -57,7 +57,7 @@ If you’re working on related problems—or think my background could contribut
 
 ## Current Research Topics: Generative Models/Geological Modeling
 
-With the rapid progress of machine learning, high-quality training data has become essential. Yet in geophysics, sensitive data and the lack of open datasets pose major challenges. This drives my research in geological modeling, aiming to create realistic subsurface representations as priors and synthetic training data. My research extends from **numerical simulation** to **generative AI**, seeking to create diverse and realistic datasets that can support a wide range of geophysical applications.
+High-quality training data is essential in modern geophysics, yet sensitive data and the lack of open datasets remain major challenges. My research bridges **numerical simulation** and **generative AI** to create diverse, realistic subsurface datasets for geophysical applications.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2026</div><img src='images/eage2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ A latent diffusion framework for unconditional 3D geological model generation.
 
 ## Previous Research Topics: Seismic Impedance Inversion/Transformer/CNN
 
-My research journey began during my Master’s studies, focusing on seismic impedance inversion. Over time, my work progressed from TV to more adaptive structural constraints, from 1D to 2D inversion with improved lateral continuity, and from traditional model-driven approaches to deep learning methods with stronger nonlinear representation capabilities—ranging from CNNs to globally-aware Transformers. These experiences not only deepened my understanding of inverse problems but also fueled my motivation to further explore the underlying methodologies.
+My research journey began with seismic impedance inversion, progressing from traditional model-driven approaches to deep learning methods — from CNNs to globally-aware Transformers — which ultimately motivated my shift toward generative modeling.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,28 +107,26 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 </div>
 </div>
 
-<div style="margin-bottom:20px;">
-<span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
-  Experiment
-</span>
-<a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data" target="_blank" style="font-size: 16px;">
-  Real-World Time-Shifted Seismic Data Generation
-</a>
-<div style="margin-top: 4px; font-size: 15px; color: #555;">
-  Accurate labeling is critical for deep learning methods in seismic exploration. However, inconsistencies in time-depth relationships often lead to misalignment between well logs and seismic data, resulting in suboptimal training outcomes. This project serves as a precursor for time-shift estimation, aiming to simulate realistic time-shifted seismic data. By leveraging time-depth relationships, we generate large-scale pairs of synthetic time-shifted seismic data to provide high-quality training samples for subsequent deep learning models focused on time-shift estimation.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Experiment</div><img src='images/tdr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Real-World Time-Shifted Seismic Data Generation**
+
+Accurate labeling is critical for deep learning in seismic exploration. This project simulates realistic time-shifted seismic data by leveraging time-depth relationships, generating large-scale synthetic pairs as training samples for time-shift estimation models.
+
+[**GitHub**](https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data)
 </div>
 </div>
 
-<div style="margin-bottom:20px;">
-<span style="display: inline-block; background-color:rgb(58, 204, 0); color: white; font-size: 12px; padding: 1px 5px; border-radius: 0px; margin-right: 8px;">
-  Experiment
-</span>
-<a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization" target="_blank" style="font-size: 16px;">
-  Model driven Seismic Inversion with Structural Regularization
-</a>
-<div style="margin-top: 4px; font-size: 15px; color: #555;">
-  I implemented a seismic convolution forward modeling algorithm in MATLAB and generated synthetic seismic data based on the Marmousi model. Seismic dip estimation was performed using both structure tensor eigenvalue decomposition and PWD. Results demonstrate that PWD is more robust in capturing dominant geological trends, while the structure tensor approach is less stable under noise. A structure-oriented smoothing operator was constructed from the dip estimates. Finally, a structure-constrained inversion objective function was formulated and solved using FISTA to obtain the least-squares solution.
-</div>  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Experiment</div><img src='images/dipcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Model-Driven Seismic Inversion with Structural Regularization**
+
+Implemented seismic convolution forward modeling in MATLAB and compared structure tensor vs. PWD for dip estimation. A structure-oriented smoothing operator was constructed and a structure-constrained inversion objective solved via FISTA.
+
+[**GitHub**](https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization)
+</div>
 </div>
 
 <span class='anchor' id='educations'></span>
@@ -159,16 +157,6 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 
 <span class="anchor" id="cv"></span>
 
-# 📄 CV
-
-<p>
-  <a href="CV_QiPang.pdf" download target="_blank" style="font-size: 16px; text-decoration: none; color: #007acc;">
-    📥 Download CV
-  </a>
-</p>
-
-<span class="anchor" id="hobbies"></span>
-
 # 🎮 Hobbies
 
 When I'm not coding or running simulations, I like to relax (or compete!) through games and sports:
@@ -180,3 +168,14 @@ When I'm not coding or running simulations, I like to relax (or compete!) throug
 
 Let’s play sometime!  
 🎮 Steam Friend Code: `1034585311`
+
+# 📄 CV
+
+<p>
+  <a href="CV_QiPang.pdf" download target="_blank" style="font-size: 16px; text-decoration: none; color: #007acc;">
+    📥 Download CV
+  </a>
+</p>
+
+<span class="anchor" id="hobbies"></span>
+
