@@ -59,7 +59,7 @@ If you’re working on related problems—or think my background could contribut
 
 ## Current Research Topics: Generative Models/Geological Modeling
 
-High-quality training data is essential in modern geophysics, yet sensitive data and the lack of open datasets remain major challenges. My research bridges **numerical simulation** and **generative AI** to create diverse, realistic subsurface datasets for geophysical applications.
+High-quality training data is essential in modern geophysics, yet sensitive data and the lack of open datasets remain major challenges. My research bridges **numerical simulation** and **generative AI** to create diverse, realistic subsurface datasets for geophysical applications. 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2026</div><img src='images/eage2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
