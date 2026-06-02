@@ -120,7 +120,7 @@ Accurate labeling is critical for deep learning in seismic exploration. This pro
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiments">Experiment</div><img src='images/dipcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiment">Experiment</div><img src='images/dipcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model-Driven Seismic Inversion with Structural Regularization**
