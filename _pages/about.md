@@ -69,6 +69,8 @@ My research journey began during my Master’s studies, focusing on seismic impe
 **Iterative Gradient Corrected Semi-Supervised  Seismic Impedance Inversion via Swin Transformer**
 
 **Qi Pang**, Hongling Chen, Jinghuai Gao, et al.
+An iterative gradient correction strategy guides the network to learn update mappings in model space and capture implicit priors, effectively suppressing null-space uncertainty. Combined with Swin Transformer for long-range dependency modeling, achieving high-accuracy seismic impedance inversion.
+
 
 [**Paper**](https://ieeexplore.ieee.org/document/10989649) | [**GitHub**](https://github.com/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion) ![ ](https://img.shields.io/github/stars/GeoAI-INV/Iterative-Gradient-Corrected-Swin-Inversion?style=social)
 </div>
