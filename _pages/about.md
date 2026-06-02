@@ -109,27 +109,28 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiment">Experiment</div><img src='images/tdr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-small'>
+<div class='paper-box-item'><div style="position:relative"><div class="badge experiment">Experiment</div><img src='images/tdr.png' alt="sym"/></div>
+<div class='paper-box-item-text' markdown="1">
 
 **Real-World Time-Shifted Seismic Data Generation**
 
-Accurate labeling is critical for deep learning in seismic exploration. This project simulates realistic time-shifted seismic data by leveraging time-depth relationships, generating large-scale synthetic pairs as training samples for time-shift estimation models.
+Simulates realistic time-shifted seismic data via time-depth relationships for time-shift estimation model training.
 
 [**GitHub**](https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data)
-</div>
-</div>
+</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge experiment">Experiment</div><img src='images/dipcons.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-item'><div style="position:relative"><div class="badge experiment">Experiment</div><img src='images/dipcons.png' alt="sym"/></div>
+<div class='paper-box-item-text' markdown="1">
 
 **Model-Driven Seismic Inversion with Structural Regularization**
 
-Implemented seismic convolution forward modeling in MATLAB and compared structure tensor vs. PWD for dip estimation. A structure-oriented smoothing operator was constructed and a structure-constrained inversion objective solved via FISTA.
+Structure tensor vs. PWD dip estimation, with structure-constrained inversion objective solved via FISTA.
 
 [**GitHub**](https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization)
+</div></div>
 </div>
-</div>
+
 
 <span class='anchor' id='educations'></span>
 

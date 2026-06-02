@@ -83,8 +83,33 @@
         }
 
     }
+}
 
+.paper-box-small {
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding: 1em 0;
 
+    .paper-box-item {
+        display: flex;
+        flex-direction: column;
+        width: 48%;
+
+        img {
+            width: 100%;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+
+        .paper-box-item-text {
+            padding-top: 0.5em;
+            font-size: 0.9em;
+        }
+    }
 }
 
 $scroll_offset : 2em;
