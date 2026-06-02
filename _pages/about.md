@@ -39,7 +39,7 @@ My research interests include **inverse problems**, **generative modeling**, and
 
 #### 🌍 Vision
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision</div><img src='images/sim2gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge vision">Vision</div><img src='images/sim2gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **World Model for the Subsurface**
