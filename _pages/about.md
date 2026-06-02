@@ -31,21 +31,23 @@ My research interests include **inverse problems**, **generative modeling**, and
   *(grounded in geophysical principles)*
 
 - **Geological modeling with realistic priors**  
-  *(e.g., geostatistical simulation methods)*
+  *(e.g., geostatistical simulation methods)*s
 
 - **Inversion guided by multi-source information**  
   *(e.g., physics-informed machine learning)*
 
 
-#### 🛠 Ongoing Research
+#### 🌍 Vision
 
-<p align="center">
-  <img src="images/sim2gen.png" width="450"/>
-</p>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision</div><img src='images/sim2gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-This is my first step 🚀  
-The end goal? A **World Model for the Subsurface** 🌍  
-Current progress: teaching generative models to understand the underground🪨
+**World Model for the Subsurface**
+
+A generative framework that truly understands the underground — from unconditional 3D geological synthesis toward text/seismic-guided generation, ultimately bridging generative AI and geophysical inversion.
+
+</div>
+</div>
 
 
 If you’re working on related problems—or think my background could contribute to your group or project—I’d love to connect. Feel free to reach out at: 📧 **pangjiutian@gmail.com**
