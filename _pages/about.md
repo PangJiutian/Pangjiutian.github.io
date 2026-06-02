@@ -112,7 +112,7 @@ A simple and easy-to-use Python library for seismic data visualization, designed
 <div class='paper-box-small'>
 <div class='paper-box-item'>
 
-<span class="badge experiment">Experiment</span> <a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data"><strong>Real-World Time-Shifted Seismic Data Generation</strong></a>
+<a href="https://github.com/PangJiutian/Generating-Time-Shifted-Seismic-Data"><strong>Real-World Time-Shifted Seismic Data Generation</strong></a>
 
 Inconsistencies in time-depth relationships often cause misalignment between well logs and seismic data. This project simulates realistic time-shifted seismic data by leveraging time-depth relationships, generating large-scale synthetic pairs as high-quality training samples for deep learning-based time-shift estimation models.
 
@@ -120,9 +120,12 @@ Inconsistencies in time-depth relationships often cause misalignment between wel
 
 <div class='paper-box-item'>
 
-<span class="badge experiment">Experiment</span> <a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization"><strong>Model-Driven Seismic Inversion with Structural Regularization</strong></a>
+<a href="https://github.com/PangJiutian/Model-driven-Seismic-Inversion-with-Structural-Regularization"><strong>Model-Driven Seismic Inversion with Structural Regularization</strong></a>
 
 Implemented seismic convolution forward modeling in MATLAB based on the Marmousi model. Compared structure tensor and PWD for dip estimation — PWD proved more robust under noise. A structure-constrained inversion objective was solved via FISTA.
+
+</div>
+</div>
 
 </div>
 </div>
