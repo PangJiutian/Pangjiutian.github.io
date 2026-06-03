@@ -61,6 +61,20 @@ If you’re working on related problems—or think my background could contribut
 
 High-quality training data is essential in modern geophysics, yet sensitive data and the lack of open datasets remain major challenges. My research bridges **numerical simulation** and **generative AI** to create diverse, realistic subsurface datasets for geophysical applications. 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/geovoldiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GeoVolDiff: Taming 3D Geological Volumes with  Latent Diffusion**
+
+**Qi Pang**, Hongling Chen, Jinghuai Gao.
+
+We present GeoVolDiff, a latent diffusion framework for synthesizing realistic 3D geological volumes at scale. The generated geological models can be used to pre-train downstream geophysical learning systems, significantly reducing dependence on expensive labeled field data. Results on seismic impedance inversion show strong transferability from synthetic to real-world datasets.
+
+
+[**Paper**](https://arxiv.org/abs/2606.03572v1) | [**GitHub**](https://github.com/PangJiutian/geovoldiff) ![ ](https://img.shields.io/github/stars/PangJiutian/geovoldiff?style=social)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2026</div><img src='images/eage2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
