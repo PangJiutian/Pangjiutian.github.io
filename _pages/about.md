@@ -70,7 +70,7 @@ High-quality training data is essential in modern geophysics, yet sensitive data
 
 We present GeoVolDiff, a latent diffusion framework for synthesizing realistic 3D geological volumes at scale. The generated geological models can be used to pre-train downstream geophysical learning systems, significantly reducing dependence on expensive labeled field data. Results on seismic impedance inversion show strong transferability from synthetic to real-world datasets.
 
-
+ 
 [**Paper**](https://arxiv.org/abs/2606.03572v1) | [**GitHub**](https://github.com/PangJiutian/geovoldiff) ![ ](https://img.shields.io/github/stars/PangJiutian/geovoldiff?style=social)
 </div>
 </div>
