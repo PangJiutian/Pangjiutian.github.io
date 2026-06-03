@@ -75,7 +75,6 @@ We present GeoVolDiff, a latent diffusion framework for synthesizing realistic 3
 </div>
 </div>
 
----
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2026</div><img src='images/eage2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
