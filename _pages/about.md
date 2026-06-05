@@ -31,7 +31,7 @@ My research interests include **inverse problems**, **generative modeling**, and
   *(grounded in geophysical principles)*
 
 - **Geological modeling with realistic priors**  
-  *(e.g., geostatistical simulation methods)*s
+  *(e.g., geostatistical simulation methods)*
 
 - **Inversion guided by multi-source information**  
   *(e.g., physics-informed machine learning)*
@@ -44,7 +44,7 @@ My research interests include **inverse problems**, **generative modeling**, and
 
 **World Model for the Subsurface**
 
-A generative framework that truly understands the underground — from unconditional 3D geological synthesis toward text/seismic-guided generation, ultimately bridging generative AI and geophysical inversion.
+My future research aims to build a **World Model for Earth Science** — a generative framework that deeply understands the subsurface by integrating physics, multi-modal observations, and geological knowledge.
 
 </div>
 </div>
