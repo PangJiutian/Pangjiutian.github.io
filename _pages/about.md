@@ -23,7 +23,7 @@ Hi, I’m **Qi Pang**, a third-year Master’s student at **Xi’an Jiaotong Uni
 
 My research interests include **inverse problems**, **generative modeling**, and **geological modeling**, with a particular focus on developing physics-informed generative models for geoscience.
 
-<span style="color:red; font-weight:bold;">🚀 I am currently seeking Ph.D. opportunities starting in Fall 2026</span>, and I’m always happy to explore academic collaborations aligned with my research interests.
+<!-- <span style="color:red; font-weight:bold;">🚀 I am currently seeking Ph.D. opportunities starting in Fall 2026</span>, and I’m always happy to explore academic collaborations aligned with my research interests. -->
 
 #### 🔍 Topics I’m Excited About
 
