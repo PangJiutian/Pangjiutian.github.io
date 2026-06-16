@@ -145,16 +145,27 @@ Implemented seismic convolution forward modeling in MATLAB based on the Marmousi
 
 <span class='anchor' id='educations'></span>
 
-# 📖 Educations
+# 📖 Education
+
+<div class="experience-box">
+    <div class="experience-box-logo">
+        <img src="images/ustc.jpg" alt="USTC Logo">
+    </div>
+    <div class="experience-box-text">
+        <p><strong>2026.09 - Present</strong></p>
+        <p>Ph.D., <a href="https://www.ustc.edu.cn/index.htm">University of Science and Technology of China</a></p>
+        <p>Advisor: Prof. <a href="https://cig.ustc.edu.cn/xinming/list.htm">Xinming Wu</a></p>
+    </div>
+</div>
 
 <div class="experience-box">
     <div class="experience-box-logo">
         <img src="images/xjtu.jpg" alt="XJTU Logo">
     </div>
     <div class="experience-box-text">
-        <p><strong>2023.09 - Now</strong></p>
-        <p>Master, <a href="https://www.xjtu.edu.cn/index.htm">Xi'an Jiaotong University</a></p>
-        <p>Supervisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
+        <p><strong>2023.09 - 2026.06</strong></p>
+        <p>M.S., <a href="https://www.xjtu.edu.cn/index.htm">Xi'an Jiaotong University</a></p>
+        <p>Advisor: Prof. <a href="https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao">Jinghuai Gao</a></p>
     </div>
 </div>
 
@@ -164,12 +175,11 @@ Implemented seismic convolution forward modeling in MATLAB based on the Marmousi
     </div>
     <div class="experience-box-text">
         <p><strong>2019.09 - 2023.06</strong></p>
-        <p>Bachelor, <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a></p>
-        <p>Supervisor: Prof. <a href="https://yjs.sau.edu.cn/info/1015/3462.htm">Qizhi Fang</a></p>
-    </div>   
+        <p>B.Eng., <a href="https://www.sau.edu.cn/">Shenyang Aerospace University</a></p>
+    </div>
 </div>
 
-<span class="anchor" id="cv"></span>
+<span class="anchor" id="hobbies"></span>
 
 # 🎮 Hobbies
 
@@ -183,6 +193,8 @@ When I'm not coding or running simulations, I like to relax (or compete!) throug
 Let’s play sometime!  
 🎮 Steam Friend Code: `1034585311`
 
+<span class="anchor" id="cv"></span>
+
 # 📄 CV
 
 <p>
@@ -191,5 +203,5 @@ Let’s play sometime!
   </a>
 </p>
 
-<span class="anchor" id="hobbies"></span>
+
 
