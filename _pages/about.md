@@ -145,7 +145,7 @@ Implemented seismic convolution forward modeling in MATLAB based on the Marmousi
 
 <span class='anchor' id='educations'></span>
 
-# 📖 Education
+# 📖 Educations
 
 <div class="experience-box">
     <div class="experience-box-logo">
