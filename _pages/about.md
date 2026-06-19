@@ -66,7 +66,7 @@ High-quality training data is essential in modern geophysics, yet sensitive data
 
 **GeoVolDiff: Taming 3D Geological Volumes with  Latent Diffusion**
 
-<strong style="color:#0056b3;">Qi Pang</strong>, Hongling Chen, Jinghuai Gao.
+<strong style="color:#00369f;">Qi Pang</strong>, Hongling Chen, Jinghuai Gao.
 
 We present GeoVolDiff, a latent diffusion framework for synthesizing realistic 3D geological volumes at scale. The generated geological models can be used to pre-train downstream geophysical learning systems, significantly reducing dependence on expensive labeled field data. Results on seismic impedance inversion show strong transferability from synthetic to real-world datasets.
 
@@ -80,7 +80,7 @@ We present GeoVolDiff, a latent diffusion framework for synthesizing realistic 3
 
 **Scaling the Subsurface: Deep Generative Synthesis of 3D Seismic Properties**
 
-<strong style="color:#0056b3;">Qi Pang</strong>, Hongling Chen, Jinghuai Gao, et al.
+<strong style="color:#00369f;">Qi Pang</strong>, Hongling Chen, Jinghuai Gao, et al.
 
 A latent diffusion framework for unconditional 3D geological model generation.
 
@@ -99,7 +99,7 @@ My research journey began with seismic impedance inversion, progressing from tra
 
 **Iterative Gradient Corrected Semi-Supervised  Seismic Impedance Inversion via Swin Transformer**
 
-<strong style="color:#0056b3;">Qi Pang</strong>, Hongling Chen, Jinghuai Gao, et al.
+<strong style="color:#00369f;">Qi Pang</strong>, Hongling Chen, Jinghuai Gao, et al.
 
 An iterative gradient correction strategy guides the network to learn update mappings in model space and capture implicit priors, effectively suppressing null-space uncertainty. Combined with Swin Transformer for long-range dependency modeling, achieving high-accuracy seismic impedance inversion.
 
