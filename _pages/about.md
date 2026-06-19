@@ -19,8 +19,7 @@ redirect_from:
 
 # 😺 About Me
 
-Hi, I'm **Qi Pang**, an incoming Ph.D. student at the School of Artificial Intelligence and Data Science (AIDS), University of Science and Technology of China (USTC), where I work with the **[Computational Interpretation Group (CIG)](http://cig.ustc.edu.cn/main.htm)** and am fortunate to be supervised by **Prof. [Xinming Wu](https://cig.ustc.edu.cn/xinming/list.htm)**.
-Before that, I received my Master’s degree from Xi’an Jiaotong University under the supervision of **Prof. [Jinghuai Gao](https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao)**, and my Bachelor’s degree from Shenyang Aerospace University.
+Hi, I'm **Qi Pang**, an incoming Ph.D. student at the School of Artificial Intelligence and Data Science (AIDS), University of Science and Technology of China (USTC), where I work with the **[Computational Interpretation Group (CIG)](http://cig.ustc.edu.cn/main.htm)** and am fortunate to be supervised by **Prof. [Xinming Wu](https://cig.ustc.edu.cn/xinming/list.htm)**. Before that, I received my Master’s degree from Xi’an Jiaotong University under the supervision of **Prof. [Jinghuai Gao](https://scholar.google.com/citations?user=53gDhbgAAAAJ&hl=zh-CN&oi=ao)**, and my Bachelor’s degree from Shenyang Aerospace University.
 
 My research interests include **inverse problems**, **generative modeling**, and **geological modeling**, with a particular focus on developing physics-informed generative models for geoscience.
 
